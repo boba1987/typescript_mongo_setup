@@ -1,4 +1,4 @@
-# node-feathers-typescript
+# typescript-mongo setup
 
 > 
 
