@@ -4,7 +4,7 @@
 
 ## About
 
-This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
+This project uses [Feathers](http://feathersjs.com)
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 2. Install your dependencies
 
     ```
-    cd path/to/node-feathers-typescript
+    cd path/to/typescript_mongo_setup
     npm install
     ```
 
@@ -34,7 +34,7 @@ Simply run `npm test` and all your tests in the `test/` directory will be run.
 
 ## Scaffolding
 
-Feathers has a powerful command line interface. Here are a few things it can do:
+Use Feathers CLI to manage the project files/structure
 
 ```
 $ npm install -g @feathersjs/cli          # Install Feathers CLI
