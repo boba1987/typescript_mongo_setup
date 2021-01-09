@@ -8,8 +8,6 @@ This project uses [Feathers](http://feathersjs.com). An open source web framewor
 
 ## Getting Started
 
-Getting up and running is as easy as 1, 2, 3.
-
 1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
 2. Install your dependencies
 
@@ -22,6 +20,12 @@ Getting up and running is as easy as 1, 2, 3.
 
     ```
     npm start
+    ```
+    
+3.1. Running development environment
+
+    ```
+    npm run dev
     ```
 
 ## Testing
