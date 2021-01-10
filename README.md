@@ -1,20 +1,18 @@
-# node-feathers-typescript
+# typescript-mongo setup
 
 > 
 
 ## About
 
-This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
+This project uses [Feathers](http://feathersjs.com)
 
 ## Getting Started
-
-Getting up and running is as easy as 1, 2, 3.
 
 1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
 2. Install your dependencies
 
     ```
-    cd path/to/node-feathers-typescript
+    cd path/to/typescript_mongo_setup
     npm install
     ```
 
@@ -23,6 +21,12 @@ Getting up and running is as easy as 1, 2, 3.
     ```
     npm start
     ```
+    
+3.1. Running development environment
+
+    ```
+    npm run dev
+    ```
 
 ## Testing
 
@@ -30,7 +34,7 @@ Simply run `npm test` and all your tests in the `test/` directory will be run.
 
 ## Scaffolding
 
-Feathers has a powerful command line interface. Here are a few things it can do:
+Use Feathers CLI to manage the project files/structure
 
 ```
 $ npm install -g @feathersjs/cli          # Install Feathers CLI
